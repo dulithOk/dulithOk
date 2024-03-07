@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Dulith Dahanayaka</h1>
+<h1 align="center">Hi👋,I'm Dulith Dahanayaka</h1>
 <h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
