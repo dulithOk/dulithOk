@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋,I'm Dulith Dahanayaka</h1>
 <h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working with **python**
 
-- 💬 Ask me about **Spring Boot and Java**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **dahanayakad22@gmail.com**
 
